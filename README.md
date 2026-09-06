@@ -40,8 +40,10 @@ When I'm not writing SQL queries or building DAX measures, I enjoy staying updat
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-FF6600?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/XML-Intermediate-FF6600?style=flat" alt="XML Badge">
+  <img src="https://img.shields.io/badge/Web_Scraping-Intermediate-FF6600?style=flat" alt="Web Scraping Badge">
+  <img src="https://img.shields.io/badge/PDF_Scraping-Intermediate-FF6600?style=flat" alt="PDF Scraping Badge">
 </p>
 
 #### Business Intelligence & Analytics
