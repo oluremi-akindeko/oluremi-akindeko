@@ -27,7 +27,6 @@ When I'm not writing SQL queries or building DAX measures, I enjoy staying updat
 ## 🌱 Currently Learning 
 
 - **Microsoft Fabrics:** Exploring the all-in-one analytics solution to unify Data Factory, Synapse, and Power BI for end-to-end data workflows.
-- **Python for Data Analysis:** Exploring Pandas and NumPy to expand my automation toolkit beyond Excel and SQL.
 
 ## 🛠️ Technical Skillset
 
