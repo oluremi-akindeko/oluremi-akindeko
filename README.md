@@ -1,7 +1,7 @@
 ## Hi there, I'm Oluremi Akindeko 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+BI+Analyst;Certified+Accountant;Turning+Data+into+Actionable+Insights;SQL+%7C+Power+BI+%7C+Excel+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Analyst+%7C+Web+%26+PDF+Data+Extraction;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,11 +10,15 @@
 </p>
 
 ## 🚀 About Me 
-I am a **highly analytical** and **data-driven** professional pivoting from a strong foundation in accounting and regulatory reporting into **Business Intelligence** and **Data Analytics**. I specialize in extracting complex datasets, performing rigorous data cleaning, and building Power BI dashboards from which insights that drive strategic data-driven decisions are derived.
+I am a highly analytical and data-driven professional with a strong foundation in accounting, regulatory reporting, Business Intelligence, and Data Analytics. I specialize in extracting, cleaning, transforming, and analyzing complex datasets to produce accurate, decision-ready information.
 
-My focus is on **automating repetitive reporting cycles** to reduce operational risk and creating "single source of truth" dashboards that help organizations track high-stakes metrics with 100% accuracy.
+My technical work spans SQL, Python, Power BI, Excel, web scraping, and PDF data extraction. I build automated workflows that collect structured data from multi-page websites and complex PDF documents, clean and validate the extracted records, and deliver them in analysis-ready formats such as Excel and CSV.
 
-When I'm not writing SQL queries or building DAX measures, I enjoy staying updated on the latest financial regulations and exploring new ways to bridge the gap between technical data and business strategy. I love the "aha!" moment when a clean dataset solves a long-standing operational bottleneck.
+I also develop interactive Power BI dashboards and automated reporting solutions that reduce repetitive manual work, improve data quality, and create reliable single sources of truth for tracking important business metrics.
+
+My growing portfolio includes e-commerce web scraping, business-directory data extraction, multi-page PDF-to-Excel conversion, data cleaning and validation, SQL analysis, and business intelligence dashboards.
+
+I enjoy solving problems where messy, fragmented, or difficult-to-access information can be transformed into structured data that supports better decisions. Whether I’m writing SQL queries, building Python extraction pipelines, creating DAX measures, or designing dashboards, I’m most interested in the point where technical data work creates practical business value.
 
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/oluremi-akindeko)
       
