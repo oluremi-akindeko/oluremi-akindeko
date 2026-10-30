@@ -24,13 +24,11 @@ I enjoy solving problems where messy, fragmented, or difficult-to-access informa
       
 ## 🔭 What I'm Currently Working On 
 
-- **Automated Regulatory Dashboard:** Developing a Power BI tracker to monitor the end-to-end status of regulatory reports, reducing manual follow-ups by 40%.
-- **SQL Optimization Project:** Refining complex queries for high-stakes data extraction, aiming to improve retrieval speeds by over 30%.
 - **Regulatory XML Automation:** Collaborating with IT and cross-functional business units to automate the generation of compliant XML files for faster submissions.
 
 ## 🌱 Currently Learning 
 
-- **Microsoft Fabrics:** Exploring the all-in-one analytics solution to unify Data Factory, Synapse, and Power BI for end-to-end data workflows.
+- **Python & R Programming Languages:** Developing my Python programming skills, with a focus on data analysis, automation, data manipulation, and building practical solutions to real-world problems.
 
 ## 🛠️ Technical Skillset
 
