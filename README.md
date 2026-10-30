@@ -28,7 +28,7 @@ I enjoy solving problems where messy, fragmented, or difficult-to-access informa
 
 ## 🌱 Currently Learning 
 
-- **Python & R Programming Languages:** Developing my Python programming skills, with a focus on data analysis, automation, data manipulation, and building practical solutions to real-world problems.
+- **Python & R Programming Languages:** Developing my programming skills in Python and R, focusing on data analysis, data manipulation, statistical computing, automation, and solving real-world business problems.
 
 ## 🛠️ Technical Skillset
 
